@@ -24,10 +24,7 @@
         "name": "Yoshifumi Kawai",
         "url": "https://medium.com/@neuecc"
     },
-    "license": {
-        "type": "MIT",
-        "url": "https://github.com/monry/UniRx/blob/master/LICENSE"
-    },
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/neuecc/UniRx"
