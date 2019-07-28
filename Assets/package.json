@@ -1,0 +1,32 @@
+{
+    "name": "jp.cysharp.unirx",
+    "displayName": "UniRx",
+    "version": "7.1.0",
+    "unity": "2018.3",
+    "description": "UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. The Official Rx implementation is great but doesn't work on Unity and has issues with iOS IL2CPP compatibility. This library fixes those issues and adds some specific utilities for Unity. Supported platforms are PC/Mac/Android/iOS/WebGL/WindowsStore/etc and the library.",
+    "keywords": [
+        "reactive-extensions",
+        "unirx"
+    ],
+    "category": "",
+    "dependencies": {},
+    "files": [
+        "package.json",
+        "package.json.meta",
+        "Plugins.meta",
+        "Plugins/UniRx.meta",
+        "Plugins/UniRx/ReadMe.txt",
+        "Plugins/UniRx/ReadMe.txt.meta",
+        "Plugins/UniRx/Scripts/",
+        "Plugins/UniRx/Scripts.meta"
+    ],
+    "author": {
+        "name": "Yoshifumi Kawai",
+        "url": "https://medium.com/@neuecc"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/neuecc/UniRx"
+    }
+}
